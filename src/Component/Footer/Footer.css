@@ -1,0 +1,69 @@
+.p_of_footer {
+  margin-top: 2%;
+  width: 100%;
+  display: flex;
+  border-bottom: 2px solid gray;
+}
+.div {
+  border: 1px solid gray;
+  border-width: 0 0 2px 2px;
+  width: 10px;
+  height: 10px;
+  line-height: 0;
+  font-size: 0;
+  -webkit-transform: rotate(135deg);
+  -ms-transform: rotate(135deg);
+  -o-transform: rotate(135deg);
+  transform: rotate(135deg);
+  margin: 0 0 0 0.179%;
+  padding: 0;
+}
+.div_blok {
+  margin: 3% 0 0 .15%;
+  display: flex;
+}
+.logotype_footer{
+    border: 2px solid red;
+    width: 16%;
+    height: 10vh;
+    text-align: center;
+    border: 1.5px solid gray;
+    background-image: linear-gradient(180deg, rgb(150, 148, 148), white 50% );
+    border-radius:18px;
+    padding:.5%;
+    /* margin:0 0 0 25%; */
+}
+.tr_eng_logo{
+    color:#113e6b;
+    margin: 0;
+    padding: 0;
+    font-size:30px;
+}
+.tr_ru_logo{
+    color: darkorange;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}
+.title_of_footer p{
+    margin: 0;
+    padding: 0;
+}
+.title_of_footer {
+    border-bottom: 2px solid gray;
+    width: 41.5%;
+    height:10vh;
+    margin: -1.5% 0 0 1%;
+    padding-bottom: 5.5%;
+}
+.title_of_footer a{
+    color: #001277;
+    font-weight: bold;
+}
+.foot_side{
+    width: 40%;
+    margin-left: 0;
+    margin-right:0;
+    padding-right: 0;
+    margin-bottom: 2%;
+}

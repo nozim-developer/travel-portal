@@ -1,38 +1,43 @@
-.App {
-  text-align: center;
+::-webkit-scrollbar {
+  display: none;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+::-webkit-scrollbar-thumb {
+  display: none;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+/* .Respon{
+  display: none;
+} */
+.responsive{
+  display: none;
+}
+@media screen and (max-width: 1472px) {
+  .responsive{
+    display: block;
+  }
+  .Respon{
+    display: none;
   }
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media screen and (min-width: 1752px) {
+  .Tur_portal{
+    margin:  0 0 0 -4% ;
   }
-  to {
-    transform: rotate(360deg);
+}
+@media screen and (min-width: 2052px) {
+  .Tur_portal{
+    margin:  0 0 0 -6% ;
+  }
+}
+@media screen and (min-width: 2052px) {
+  .logo_name{
+    margin-top: 2%;
+    margin-left:6%;
+  }
+  .Tur_name,.Tur_portal{
+    margin-top: 1.5%;
+    margin-left:125px;
+  }
+  .Tur_portal{
+    margin-left: -2%;
   }
 }
