@@ -23,9 +23,15 @@
     margin:  0 0 0 -4% ;
   }
 }
-@media screen and (min-width: 2052px) {
+@media screen and (min-width: 1994px) {
   .Tur_portal{
-    margin:  0 0 0 -6% ;
+    margin:  0 0 0 -1% ;
+  }
+  .Tur_name{
+    margin: 0 0 0 1.5%;
+  }
+  .logo_name{
+    margin-left:3%;
   }
 }
 @media screen and (min-width: 2052px) {
