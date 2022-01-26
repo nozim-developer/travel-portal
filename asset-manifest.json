@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.31aa0731.css",
-    "main.js": "/static/js/main.d3dd9b49.js",
-    "static/js/787.7499f97a.chunk.js": "/static/js/787.7499f97a.chunk.js",
-    "index.html": "/index.html",
-    "main.31aa0731.css.map": "/static/css/main.31aa0731.css.map",
-    "main.d3dd9b49.js.map": "/static/js/main.d3dd9b49.js.map",
-    "787.7499f97a.chunk.js.map": "/static/js/787.7499f97a.chunk.js.map"
+    "main.css": "/travel-portal/static/css/main.31aa0731.css",
+    "main.js": "/travel-portal/static/js/main.9ff0a5c4.js",
+    "static/js/787.7499f97a.chunk.js": "/travel-portal/static/js/787.7499f97a.chunk.js",
+    "index.html": "/travel-portal/index.html",
+    "main.31aa0731.css.map": "/travel-portal/static/css/main.31aa0731.css.map",
+    "main.9ff0a5c4.js.map": "/travel-portal/static/js/main.9ff0a5c4.js.map",
+    "787.7499f97a.chunk.js.map": "/travel-portal/static/js/787.7499f97a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31aa0731.css",
-    "static/js/main.d3dd9b49.js"
+    "static/js/main.9ff0a5c4.js"
   ]
 }
